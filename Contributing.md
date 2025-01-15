@@ -1,4 +1,4 @@
-Contributing
+ 
 We welcome contributions from the community! If you'd like to help make this project better, please follow the guidelines in the CONTRIBUTING.md file.
 
 License
